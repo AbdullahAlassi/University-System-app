@@ -88,8 +88,7 @@ class AuthWrapper extends StatelessWidget {
           } else if (snapshot.connectionState == ConnectionState.done) {
             if (snapshot.hasError) {
               print("Error fetching user role: ${snapshot.error}");
-              return Center(
-                  child: Text("An error occurred. Please try again."));
+              return Center(child: Text("An error occurred. Pease try agin."));
             }
 
             if (snapshot.hasData &&
