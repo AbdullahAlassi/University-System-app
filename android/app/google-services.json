@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24142077528",
+    "project_id": "flutterloginpage-c1cce",
+    "storage_bucket": "flutterloginpage-c1cce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24142077528:android:32bdfc567d39f91144342d",
+        "android_client_info": {
+          "package_name": "com.example.ewi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqyfmXAFiLWdh_WUYJIgygS5a6Vb46LQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
