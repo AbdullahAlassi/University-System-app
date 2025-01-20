@@ -1,7 +1,3 @@
-Thank you for providing the project structure. I'll use this to create a detailed and professional `README.md` for your **EWI project**. Here's a proposed content for your README:
-
----
-
 ### **EWI: University System Mobile Application**
 
 #### **Description**
